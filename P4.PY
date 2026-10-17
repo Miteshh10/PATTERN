@@ -1,4 +1,4 @@
-for i in range(1, 6):
+for i in range(1, 7):
 
     # print spaces
     for j in range(5 - i):
